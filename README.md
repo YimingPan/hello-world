@@ -2,4 +2,4 @@
 
 This repository is for practising git.
 
-Createing a new branch is quick.
+Createing a new branch is quick AND simple.
