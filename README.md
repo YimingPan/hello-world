@@ -4,4 +4,4 @@ This repository is for practising git.
 
 Createing a new branch is quick and simple.
 
-dev
+master branch merges dev.
